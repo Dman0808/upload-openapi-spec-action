@@ -9,6 +9,7 @@
   "private": true,
   "dependencies": {
     "@actions/core": "^1.10.0",
+    "decorate-spec": "file:",
     "fs-extra": "^11.0.0",
     "node-fetch": "^3.2.10"
   },
